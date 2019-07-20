@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MeroNepal2</string>
+    <string name="historical_places">Historical Places</string>
+    <string name="natural_places">Natural Places</string>
+    <string name="refreshment_and_entertainment">Refreshment and \n Recreation</string>
+    <string name="title_activity_historical_places">HistoricalPlaces</string>
+
+</resources>
